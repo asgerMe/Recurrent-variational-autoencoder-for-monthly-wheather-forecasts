@@ -4,3 +4,6 @@ It has modes for dense lstms and conv-lstms though the dense version seems to wo
 
 ![alt tag](https://github.com/asgerMe/Recurrent-variational-autoencoder-for-monthly-wheather-forecasts/blob/master/fig1.jpg
  "Description goes here")
+
+![alt tag](https://github.com/asgerMe/Recurrent-variational-autoencoder-for-monthly-wheather-forecasts/blob/master/fig2.jpg
+ "Description goes here")
